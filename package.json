@@ -55,7 +55,7 @@
   },
   "config": {
     "prefix": "erc:",
-    "type": "text/html"
+    "type": "application/json"
   },
   "devDependencies": {
     "body-parser": "~1.12.0",
