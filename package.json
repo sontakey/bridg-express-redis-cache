@@ -1,5 +1,5 @@
 {
-  "name": "express-redis-cache",
+  "name": "bridg-express-redis-cache",
   "version": "0.1.8",
   "description": "A module to make Express interact with Redis (create, get, delete). You can automatically cache all your most popular routes in Redis.",
   "main": "index.js",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/co2-git/express-redis-cache.git"
+    "url": "https://github.com/sameer-bridg/express-redis-cache.git"
   },
   "author": {
-    "name": "Francois Vespa",
-    "url": "https://github.com/co2-git"
+    "name": "Sameer Sontakey",
+    "url": "https://github.com/sameer-bridg"
   },
   "contributors": [
     {
