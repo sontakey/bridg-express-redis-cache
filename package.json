@@ -54,8 +54,8 @@
     "test": "test"
   },
   "config": {
-    "prefix": "erc:",
-    "type": "text/html"
+    "prefix": "bridg:",
+    "type": "application/json"
   },
   "devDependencies": {
     "body-parser": "~1.12.0",
